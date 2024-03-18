@@ -10,17 +10,26 @@ As the first platform game I have made, its gameplay is addictive, I can make it
 Animations  
 </h2>
 <ul>
-  <li> Player </li>
-  <li> Bomb </li>
-  <li> Arrow </li>
-  <li> Bat </li>
+    <li> Player jump </li>  
+    <li>Player double jump</li>
+    <li>Player dash mode</li>
+    <li>Player ball mode</li>
+    <li>Player shoot arrow</li>
+    <li>Bat move</li>
+    <li>Bomb explosion</li>
 </ul>
 <h2>
 Pickups  
 </h2>
-<ul>
+<ul>    
   <li> Hearts </li>
-  <li> Coins </li>
-  <li> Arrow </li>
-  <li> Bat </li>
+  <li> Shining coins </li>
+  <li> Spinning coins </li>
+</ul>
+<h2>
+Attacks  
+</h2>
+<ul>    
+  <li> Arrows </li>
+  <li> Bombs </li>
 </ul>
