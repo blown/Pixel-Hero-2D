@@ -37,15 +37,29 @@ Attacks
 <h2>
 Jump and double jump 
 </h2>
+
+![jump and double jump 2](https://github.com/blown/Pixel-Hero-2d/assets/5203902/73827adb-70e0-4e33-9d9a-34fc07b0c4e7)
+
+
 <h2>
 Ball mode, bombs and box explosions
 </h2>
+
+![ball mode bombs box explosion-2](https://github.com/blown/Pixel-Hero-2d/assets/5203902/7cbd65f9-89fc-4bed-b3e5-96b6afbe6f5c)
+
+
 <h2>
 Dash mode  
 </h2>
+
+![dash mode-1](https://github.com/blown/Pixel-Hero-2d/assets/5203902/fdc8d03a-b6e4-40d1-b2c7-3eeb89838316)
+
 <h2>
 Hearts and coins pickups 
 </h2>
+
+![hearts and coins 2](https://github.com/blown/Pixel-Hero-2d/assets/5203902/f910e9a9-1037-4744-9fba-573724ed742a)
+
 <h2>
 Arrows 
 </h2>
