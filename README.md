@@ -46,3 +46,8 @@ Dash mode
 <h2>
 Hearts and coins pickups 
 </h2>
+<h2>
+Arrows 
+</h2>
+
+![flechas](https://github.com/blown/Pixel-Hero-2d/assets/5203902/fa0ca202-edcc-4b45-bac8-61ad0fb89786)
