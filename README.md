@@ -64,4 +64,5 @@ Hearts and coins pickups
 Arrows 
 </h2>
 
-![flechas](https://github.com/blown/Pixel-Hero-2d/assets/5203902/fa0ca202-edcc-4b45-bac8-61ad0fb89786)
+![arrows 2](https://github.com/blown/Pixel-Hero-2d/assets/5203902/fafdcdb7-8582-48fb-992e-4e6e4270e87e)
+
